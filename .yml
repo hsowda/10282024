@@ -1,0 +1,3 @@
+              - name: Vercel Snaplet Deployments
+                uses: snaplet/vercel-preview-database-action@v1.0.1
+            
